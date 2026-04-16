@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ficeye-ltd%2Fsnap-iceye-reader.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ficeye-ltd%2Fsnap-iceye-reader?ref=badge_shield)
+
 Project name: SNAP ICEYE reader
 Type: Plugin  
 Main contact: ahmad.hamouda (at) iceye.fi  
@@ -50,3 +52,7 @@ To build without testing
 * Useful urls
     - Snap git hub:https://github.com/senbox-org/s1tbx
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ficeye-ltd%2Fsnap-iceye-reader.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ficeye-ltd%2Fsnap-iceye-reader?ref=badge_large)
